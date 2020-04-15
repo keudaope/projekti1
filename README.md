@@ -1,3 +1,3 @@
 # projekti1
 projekti1:n yhteiskoodauskansio
-Heippa
+Heippa hei!
